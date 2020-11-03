@@ -1,6 +1,6 @@
 ### Hi there, I'm RechterBlox | Leon 👋
 
-## I'm a hobby penetration tester and hobby programmer
+## I'm a hobby programmer
 
 ### Languages:
 
