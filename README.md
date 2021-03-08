@@ -8,7 +8,6 @@
 
 <br />
 <br />
-
 ### Tools:
 
 <img align="left" alt="Intellij Community" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
