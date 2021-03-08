@@ -5,9 +5,9 @@
 ### Languages:
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+<br />
+<br />
 
-<br />
-<br />
 ### Tools:
 
 <img align="left" alt="Intellij Community" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
