@@ -5,6 +5,7 @@
 ### Languages:
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+[![JavaScript](https://img.shields.io/badge/Javascript-FF002B?style=for-the-badge&logo=Javascript)]()
 <br />
 <br />
 
