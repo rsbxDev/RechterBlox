@@ -2,6 +2,8 @@
 
 ## I'm a hobby programmer
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/209308548377739266)](https://discord.com/users/209308548377739266)
+
 ### Languages:
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
