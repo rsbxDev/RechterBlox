@@ -8,6 +8,7 @@
 
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![CSharp](https://img.shields.io/badge/CSharp-FF002B?style=for-the-badge&logo=CSharp)]()
+[![Python](https://img.shields.io/badge/Python-FF002B?style=for-the-badge&logo=Python)]()
 [![JavaScript](https://img.shields.io/badge/Javascript-FF002B?style=for-the-badge&logo=Javascript)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-FF002B?style=for-the-badge&logo=TypeScript)]()
 <br />
