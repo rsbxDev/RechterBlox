@@ -6,7 +6,8 @@
 
 ### Languages:
 
-[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-FF002B?style=for-the-badge&logo=Kotlin)]()
 [![CSharp](https://img.shields.io/badge/CSharp-FF002B?style=for-the-badge&logo=CSharp)]()
 [![Python](https://img.shields.io/badge/Python-FF002B?style=for-the-badge&logo=Python)]()
 [![JavaScript](https://img.shields.io/badge/Javascript-FF002B?style=for-the-badge&logo=Javascript)]()
