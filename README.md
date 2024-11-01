@@ -1,4 +1,4 @@
-### Hi there, I'm RechterBlox | Leon 👋
+### Hi there, I'm rsbxDev | Leon 👋
 
 ## I'm a programmer
 
